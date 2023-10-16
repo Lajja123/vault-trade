@@ -1,0 +1,13 @@
+.dashboard-main {
+}
+.dashboard {
+  display: flex;
+  height: 100vh;
+}
+
+.left-content {
+  flex: 1;
+  padding: 20px;
+}
+
+/* Styling for individual components can be added here */

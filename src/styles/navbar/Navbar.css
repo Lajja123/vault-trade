@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  box-shadow: 0 2px 20px #465b63c7;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+a {
+  color: blue;
+}
+.step-heading {
+  letter-spacing: 1px;
+}
+.nav-main {
+  width: 30%;
+}

@@ -1,0 +1,24 @@
+.sidebar-main {
+  box-shadow: 0 2px 20px #465b63c7;
+  color: #fff;
+  width: 200px;
+  padding: 20px;
+}
+.sidebar {
+  padding: 200px 30px;
+}
+
+.sidebar-item {
+  cursor: pointer;
+}
+
+.sidebar-item i {
+  margin-right: 10px;
+}
+.icon-flex-main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px 0px;
+}
